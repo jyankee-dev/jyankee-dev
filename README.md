@@ -1,3 +1,4 @@
+# README.md  
 - 👋 Hi, I’m @jyankee-dev
 - 👀 I’m interested in applications that streamline manual processes
 - 🌱 I’m currently learning how to leverage API to integrate platforms
